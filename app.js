@@ -11,6 +11,8 @@ const  Etapas= function (age) {
         alert ("Eres un teenager.");
     } else if ( age>=18 && age<22 ){
         alert( " Eres un young adult. ");
+    } else if (" "){
+        alert (" Error campo no ingresado");
     } else {
         alert("Eres un Adulto.");
     }
